@@ -1,1 +1,1 @@
-# Columnar-storage-OLAP-DuckDB.
+
